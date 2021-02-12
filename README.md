@@ -1,2 +1,3 @@
-# Research-Notebooks
-Created to research information security topics 
+# InfoSec Research Notebooks
+
+- Python studies on information security related topics
